@@ -4,9 +4,8 @@ I'm the Data Architect Manager at [Catalyst California](https://www.catalystcali
 
 
 ## 🔍 What I Work On
-- Crafting compelling data stories that center equity and justice
-- Geographic analysis across California to identify our highest need communities
-- Creating data-driven tools for grassroots organizers to use for advocacy and broader civic engagement
+- Building data pipelines
+- Developing interactive charts, maps, and other online tools to support RDA's analysis
 
 ## 🛠 Tools & Technologies
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
