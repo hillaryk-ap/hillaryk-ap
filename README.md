@@ -1,6 +1,6 @@
-# Hi, I'm Hillary Khan👋
+# Hi, I'm Hillary Khan (she/her/hers)👋
 
-I'm the Data Architect Manager at [Catalyst California](https://www.catalystcalifornia.org).  My pronouns are: she/her/hers.
+I'm the Data Architect Manager at [Catalyst California](https://www.catalystcalifornia.org). 
 
 
 ## 🔍 What I Work On
@@ -13,7 +13,6 @@ I'm the Data Architect Manager at [Catalyst California](https://www.catalystcali
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🚀 Featured Projects
-- 📊 **Red Tape to Recovery: Tracking Altadena Rebuilding After the Eaton Fire** – A [data dashboard](https://catalystca.maps.arcgis.com/apps/dashboards/5aac849a3ada4c79b1ac1677964530e8) and detailed analysis on the recovery process Altadenans face after the devestating Eaton Fire in January 2025. I support on tracking permits and updating the data dashboard so we can identify those who may need additional support to rebuild their homes.  
-  https://github.com/catalystcalifornia/altadena_recovery_rebuild
+- 📊 **Red Tape to Recovery: Tracking Altadena Rebuilding After the Eaton Fire** – A [data dashboard](https://catalystca.maps.arcgis.com/apps/dashboards/5aac849a3ada4c79b1ac1677964530e8) and detailed analysis on the recovery process Altadenans face after the devestating Eaton Fire in January 2025. I support on tracking permits and updating the data dashboard so we can identify those who may need additional support to rebuild their homes. [repository](https://github.com/catalystcalifornia/altadena_recovery_rebuild)
 
 ## 📫 Connect With Me on [LinkedIn](https://www.linkedin.com/in/hillary-khan/)
