@@ -12,9 +12,10 @@ I'm the Data Architect Manager with the Research and Data Analysis (RDA) team at
 ![Python](https://img.shields.io/badge/Python-211447?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-362178?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5B3FA0?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-7A63B8?style=for-the-badge&logo=aws&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-8E7ACA?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-BDAFE9?style=for-the-badge&logo=esri&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-E2D9FF?style=for-the-badge&logo=aws&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-E2D9FF?style=for-the-badge&logo=leaflet&logoColor=white)
 
 
 ## 🚀 Featured Projects
