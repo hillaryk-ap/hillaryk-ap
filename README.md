@@ -1,11 +1,11 @@
 # Hi, I'm Hillary Khan (she/her/hers)👋
 
-I'm the Data Architect Manager at [Catalyst California](https://www.catalystcalifornia.org). 
+I'm the Data Architect Manager with the Research and Data Analysis (RDA) team at [Catalyst California](https://www.catalystcalifornia.org). 
 
 
 ## 🔍 What I Work On
-- Building data pipelines
-- Developing interactive charts, maps, and other online tools to support RDA's analysis
+- Building and managing our data pipelines and systems 
+- Developing interactive charts, maps, and other online tools that support RDA's analysis
 
 ## 🛠 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-211447?style=for-the-badge&logo=python&logoColor=white)
