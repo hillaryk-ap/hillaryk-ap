@@ -1,4 +1,4 @@
-# Hi, I'm Hillary Khan (she/her/hers)👋
+# Hi, I'm Hillary! 👋
 
 I'm the Data Architect Manager with the Research and Data Analysis (RDA) team at [Catalyst California](https://www.catalystcalifornia.org). 
 
